@@ -110,7 +110,8 @@ function renderHome() {
     }
     <div class="card">
       <h3 class="h-with-icon">${icon("book", "ico-inline")} Banque</h3>
-      <p class="muted">${questions.length} questions · 10 cours hydro-électrolytiques</p>
+      <p class="muted">${questions.length} questions DEMS — strictement issues des cours extractibles (voir limitation PDF).</p>
+      ${questions.length < 150 ? `<p class="muted"><strong>7 cours</strong> en attente : export texte des PDF (images). Détails : <code>COURSES_PDF_LIMITATION.md</code></p>` : ""}
     </div>
     <div class="card card-danger">
       <h3 class="h-with-icon">${icon("reset", "ico-inline")} Reset</h3>
@@ -299,6 +300,7 @@ function renderCorrection(q) {
       <h4>🧠 Explication</h4>
       ${explain}
       <div class="key-point">📌 À retenir<br><strong>${escapeHtml(q.keyPoint)}</strong></div>
+      ${q.sourceRef ? `<p class="muted source-ref">📎 ${escapeHtml(q.sourceRef)}</p>` : ""}
       ${warnRecurrent}
       ${micro}
       <div class="actions">

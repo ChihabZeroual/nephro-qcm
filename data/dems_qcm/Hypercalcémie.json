@@ -1,0 +1,233 @@
+[
+  {
+    "id": "HCa-01",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "B": "Un apport excessif de calcium per os est cité.",
+      "C": "La vitamine A à forte dose est citée.",
+      "D": "Les diurétiques thiazidiques sont cités.",
+      "E": "L'amiloride est cité."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : Le lithium est cité parmi les causes d'hypercalcémie.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "Le lithium est cité parmi les causes d'hypercalcémie.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Lithium",
+    "variantGroup": "lithium",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-02",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "Un apport excessif de calcium per os est cité.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "La vitamine A à forte dose est citée.",
+      "D": "Les diurétiques thiazidiques sont cités.",
+      "E": "L'amiloride est cité."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : Un apport excessif de calcium per os est cité.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "Un apport excessif de calcium per os est cité.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Apport excessif de calcium per os",
+    "variantGroup": "apport-excessif-de-calcium-per-os",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-03",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "La vitamine A à forte dose est citée.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "Un apport excessif de calcium per os est cité.",
+      "D": "Les diurétiques thiazidiques sont cités.",
+      "E": "L'amiloride est cité."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : La vitamine A à forte dose est citée.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "La vitamine A à forte dose est citée.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Vitamine A à forte dose",
+    "variantGroup": "vitamine-a-à-forte-dose",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-04",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "Les diurétiques thiazidiques sont cités.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "Un apport excessif de calcium per os est cité.",
+      "D": "La vitamine A à forte dose est citée.",
+      "E": "L'amiloride est cité."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : Les diurétiques thiazidiques sont cités.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "Les diurétiques thiazidiques sont cités.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Diurétique thiazidique",
+    "variantGroup": "diurétique-thiazidique",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-05",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "L'amiloride est cité.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "Un apport excessif de calcium per os est cité.",
+      "D": "La vitamine A à forte dose est citée.",
+      "E": "Les diurétiques thiazidiques sont cités."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : L'amiloride est cité.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "L'amiloride est cité.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Amiloride",
+    "variantGroup": "amiloride",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-06",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "Le tamoxifène est cité.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "Un apport excessif de calcium per os est cité.",
+      "D": "La vitamine A à forte dose est citée.",
+      "E": "Les diurétiques thiazidiques sont cités."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : Le tamoxifène est cité.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "Le tamoxifène est cité.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Tamoxifène (anti-estrogène)",
+    "variantGroup": "tamoxifène-(anti-estrogène)",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  },
+  {
+    "id": "HCa-07",
+    "chapter": "Troubles hydro-électrolytiques et équilibre acido-basique",
+    "topic": "Hypercalcémie",
+    "courseSlug": "Hypercalcémie",
+    "type": "knowledge",
+    "question": "Concernant l'hypercalcémie, quelle cause médicamenteuse ou toxique est citée au cours ?",
+    "options": {
+      "A": "L'intoxication aluminique est citée.",
+      "B": "Le lithium est cité parmi les causes d'hypercalcémie.",
+      "C": "Un apport excessif de calcium per os est cité.",
+      "D": "La vitamine A à forte dose est citée.",
+      "E": "Les diurétiques thiazidiques sont cités."
+    },
+    "correctAnswers": [
+      "A"
+    ],
+    "explanation": {
+      "A": "Exact : L'intoxication aluminique est citée.",
+      "B": "Faux : autre item de la liste ou non cité.",
+      "C": "Faux : autre item de la liste ou non cité.",
+      "D": "Faux : autre item de la liste ou non cité.",
+      "E": "Faux : autre item de la liste ou non cité."
+    },
+    "keyPoint": "L'intoxication aluminique est citée.",
+    "difficulty": 2,
+    "tags": [
+      "hypercalcémie"
+    ],
+    "notion": "Intoxication aluminique",
+    "variantGroup": "intoxication-aluminique",
+    "sourceRef": "Hypercalcémie — VI Étiologie — médicaments/toxiques"
+  }
+]

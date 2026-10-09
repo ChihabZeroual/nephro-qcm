@@ -1,4 +1,5 @@
 @echo off
 cd /d "%~dp0.."
-py -3 scripts\generate_bank.py
+echo Banque DEMS (cours uniquement)...
+py -3 scripts\build_dems_bank.py
 pause

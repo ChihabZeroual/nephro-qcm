@@ -54,4 +54,4 @@ Toutes les données utilisateur restent **sur votre appareil** (aucun serveur re
 ## GitHub Pages (téléphone, partout)
 
 Voir **`GITHUB_PAGES.md`** (workflow `.github/workflows/pages.yml` déjà prêt).  
-URL finale : `https://VOTRE_USER.github.io/NOM_DU_REPO/`
+URL finale : `https://ChihabZeroual.github.io/nephro-qcm/`

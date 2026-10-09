@@ -35,7 +35,7 @@ git push -u origin main
 ## الرابط على الهاتف
 
 ```
-https://VOTRE_USER.github.io/nephro-qcm/
+https://ChihabZeroual.github.io/nephro-qcm/
 ```
 
 (إذا اسم الم repo مختلف، غيّر `nephro-qcm`.)
